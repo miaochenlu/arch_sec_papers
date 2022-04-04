@@ -1,5 +1,7 @@
 # arch_sec_papers
 
+* ISCA 2022
+
 * HPCA 2022
   * [**Leaky Frontends: Security Vulnerabilities in Processor Frontends**](https://arxiv.org/pdf/2105.12224.pdf)
   * **DPrime+DAbort: A High-Precision and Timer-Free Directory-Based Side-Channel Attack in Non-Inclusive Cache Hierarchies using Intel TSX**
@@ -20,4 +22,21 @@
   * [**Randomized Row-Swap: Mitigating Row Hammer by Breaking Spatial Correlation Between Aggressor and Victim Rows**](https://memlab.ece.gatech.edu/papers/ASPLOS_2022_3.pdf)
   * [**ShEF: Shielded Enclaves for Cloud FPGAs**](https://arxiv.org/pdf/2103.03500.pdf)
   * [**Invisible Bits: Hiding Secret Messages in SRAM’s Analog Domain**](https://dl.acm.org/doi/pdf/10.1145/3503222.3507756)
+
+* CCS 2022
+
+* S&P 2022
+
+  * [**MeshUp: Stateless Cache Side-channel Attack on CPU Mesh**](https://cpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/5/764/files/2022/01/oakland22.pdf)
+  * [**Graphics Peeping Unit: Exploiting EM Side-Channel Information of GPUs to Eavesdrop on Your Neighbors**](http://fan-yao.com/paper/2022_SP_EM.pdf)
+  * [**SpecHammer: Combining Spectre and Rowhammer for New Speculative Attacks**](https://rtcl.eecs.umich.edu/rtclweb/assets/publications/2022/oakland22-tobah.pdf)
+  * [**Spook.js: Attacking Chrome Strict Site Isolation via Speculative Execution**](https://www.spookjs.com/files/spook-js.pdf)
+* SEC 2022
+  * [**SecSMT: Securing SMT Processors against Contention-Based Covert Channels**](https://www.usenix.org/system/files/sec22summer_taram.pdf)
+  * [**AMD Prefetch Attacks through Power and Time**](https://www.usenix.org/system/files/sec22summer_lipp.pdf)
+  * [**Rapid Prototyping for Microarchitectural Attacks**](https://www.usenix.org/system/files/sec22summer_easdon.pdf)
+* NDSS 2022
+  * [**Remote Memory-Deduplication Attacks**](https://arxiv.org/pdf/2111.08553.pdf)
+  * [**Chunked-Cache: On-Demand and Scalable Cache Isolation for Security Architectures**](https://arxiv.org/pdf/2110.08139.pdf)
+  * [**KASPER: Scanning for Generalized Transient Execution Gadgets in the Linux**](https://download.vusec.net/papers/kasper_ndss22.pdf)
 
