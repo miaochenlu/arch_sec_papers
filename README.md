@@ -9,7 +9,7 @@
   * **SoftVN: Efficient Memory Protection via Software-Provided Version Numbers**
   * **CraterLake: A Hardware Accelerator for Efficient Unbounded Computation on Encrypted Data**
   * [**PS-ORAM: Efficient Crash Consistency Support for Oblivious RAM on NVM**](https://arxiv.org/pdf/2011.03669.pdf)
-  * **There's Always a Bigger Fish: A Clarifying Analysis of a Machine-Learning-Assisted Side-Channel Attack**
+  * [**There's Always a Bigger Fish: A Clarifying Analysis of a Machine-Learning-Assisted Side-Channel Attack**](https://people.csail.mit.edu/mengjia/data/Bigger_Fish_ISCA_2022.pdf)
   * **MOESI-prime: Preventing Coherence-Induced Hammering in Commodity Workloads**
   * **PACMAN: Attacking ARM Pointer Authentication with Speculative Execution**
   * [**MGX: Near-Zero Overhead Memory Protection for Data-Intensive Accelerators**](https://arxiv.org/pdf/2004.09679.pdf)
@@ -62,4 +62,7 @@
   * [**Exorcising Spectres with Secure Compilers**](https://publications.cispa.saarland/3501/1/fp034-patrignaniA.pdf)
   * [**CROSSLINE: Breaking ``Security-by-Crash'' based Memory Isolation in AMD SEV**](https://arxiv.org/pdf/2008.00146.pdf)
   * [**SmashEx: Smashing SGX Enclaves Using Exceptions**](https://n.ethz.ch/~sshivaji/publications/smashex_ccs21.pdf)
+
+* S&P 2021
+  * [**Randomized Last-Level Caches Are Still Vulnerable to Cache Side-Channel Attacks! But We Can Fix It**](https://arxiv.org/pdf/2008.01957.pdf)
 
