@@ -6,18 +6,20 @@
 
 * ISCA 2022
   
-  * **Axiomatic Hardware-Software Contracts for Security**
-  * **PPMLAC: High Performance Chipset Architecture for Secure Multi-Party Computation**
-  * **INSPIRE: In-Storage Private Information Retrieval via Protocol and Architecture Co-design**
-  * **SoftVN: Efficient Memory Protection via Software-Provided Version Numbers**
-  * **CraterLake: A Hardware Accelerator for Efficient Unbounded Computation on Encrypted Data**
+  * [**Securing GPU via region-based bounds checking**](https://dl.acm.org/doi/abs/10.1145/3470496.3527420)
+  * [**Axiomatic Hardware-Software Contracts for Security**](https://hnemati.github.io/paper/lcms_ISCA22_cameraready.pdf)
+    * [codes](https://github.com/nmosier/clou)
+  * [**PPMLAC: High Performance Chipset Architecture for Secure Multi-Party Computation**](https://dl.acm.org/doi/abs/10.1145/3470496.3527392)
+  * [**INSPIRE: In-Storage Private Information Retrieval via Protocol and Architecture Co-design**](https://dl.acm.org/doi/10.1145/3470496.3527433)
+  * [**SoftVN: Efficient Memory Protection via Software-Provided Version Numbers**](https://dl.acm.org/doi/abs/10.1145/3470496.3527378)
+  * [**CraterLake: A Hardware Accelerator for Efficient Unbounded Computation on Encrypted Data**](https://people.csail.mit.edu/devadas/pubs/craterlake.pdf)
   * [**PS-ORAM: Efficient Crash Consistency Support for Oblivious RAM on NVM**](https://arxiv.org/pdf/2011.03669.pdf)
   * [**There's Always a Bigger Fish: A Clarifying Analysis of a Machine-Learning-Assisted Side-Channel Attack**](https://people.csail.mit.edu/mengjia/data/Bigger_Fish_ISCA_2022.pdf)
-  * **MOESI-prime: Preventing Coherence-Induced Hammering in Commodity Workloads**
+  * [**MOESI-prime: Preventing Coherence-Induced Hammering in Commodity Workloads**](https://dl.acm.org/doi/abs/10.1145/3470496.3527427)
   * [**PACMAN: Attacking ARM Pointer Authentication with Speculative Execution**](https://pacmanattack.com/paper.pdf)
     * [website](https://pacmanattack.com/)
   * [**MGX: Near-Zero Overhead Memory Protection for Data-Intensive Accelerators**](https://arxiv.org/pdf/2004.09679.pdf)
-  * **Hydra: Enabling Low-Overhead Mitigation of Row-Hammer at Ultra-Low Thresholds via Hybrid Tracking**
+  * [**Hydra: Enabling Low-Overhead Mitigation of Row-Hammer at Ultra-Low Thresholds via Hybrid Tracking**](https://memlab.ece.gatech.edu/papers/ISCA_2022_1.pdf)
   * [**BTS: An Accelerator for Bootstrappable Fully Homomorphic Encryption**](https://arxiv.org/pdf/2112.15479.pdf)
 
 * HPCA 2022
