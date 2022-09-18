@@ -69,8 +69,18 @@
   * [**ShEF: Shielded Enclaves for Cloud FPGAs**](https://arxiv.org/pdf/2103.03500.pdf)
   * [**Invisible Bits: Hiding Secret Messages in SRAM’s Analog Domain**](https://dl.acm.org/doi/pdf/10.1145/3503222.3507756)
 
+* CCS 2022
+
+  * [**ATTRITION: Attacking Static Hardware Trojan Detection Techniques Using Reinforcement Learning**](https://arxiv.org/pdf/2208.12897.pdf)
+
 * S&P 2022
-  
+
+  * [**A Secret-Free Hypervisor: Rethinking Isolation in the Age of Speculative Vulnerabilities**](https://ieeexplore.ieee.org/document/9833726)
+  * [**SoK: Practical Foundations for Software Spectre Defenses**](https://moghimi.org/papers/ieeesp22-spectresok.pdf)
+  * [**Graphics Peeping Unit: Exploiting EM Side-Channel Information of GPUs to Eavesdrop on Your Neighbors**](http://fan-yao.com/paper/2022_SP_EM.pdf)
+  * [**Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks**](https://arxiv.org/pdf/2110.12340.pdf)
+  * [**Finding and Exploiting CPU Features using MSR Templating**](https://gruss.cc/files/msrtemplating.pdf)
+  * [**Augury: Using Data Memory-Dependent Prefetchers to Leak Data at Rest**](https://www.prefetchers.info/augury.pdf)
   * [**MeshUp: Stateless Cache Side-channel Attack on CPU Mesh**](https://cpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/5/764/files/2022/01/oakland22.pdf)
     * [codes](https://github.com/stefan1wan/MeshUp)
   * [**Graphics Peeping Unit: Exploiting EM Side-Channel Information of GPUs to Eavesdrop on Your Neighbors**](http://fan-yao.com/paper/2022_SP_EM.pdf)
@@ -78,12 +88,25 @@
   * [**Spook.js: Attacking Chrome Strict Site Isolation via Speculative Execution**](https://www.spookjs.com/files/spook-js.pdf)
 
 * SEC 2022
-  
+
+  * [**Hiding in Plain Sight? On the Efficacy of Power Side Channel-Based Control Flow Monitoring**](https://www.usenix.org/system/files/sec22summer_han.pdf)
+  * [**Hertzbleed: Turning Power Side-Channel Attacks Into Remote Timing Attacks on x86**](https://www.hertzbleed.com/hertzbleed.pdf)
+  * [**Binoculars: Contention-Based Side-Channel Attacks Exploiting the Page Walker**](https://iacoma.cs.uiuc.edu/iacoma-papers/usenix_sec22.pdf)
+  * [**Jenny: Securing Syscalls for PKU-based Memory Isolation Systems**](https://www.usenix.org/system/files/sec22summer_schrammel.pdf)
+  * [**Branch History Injection: On the Effectiveness of Hardware Mitigations Against Cross-Privilege Spectre-v2 Attacks**](https://www.usenix.org/system/files/sec22-barberis.pdf)
+  * [**TLB;DR: Enhancing TLB-based Attacks with TLB Desynchronized Reverse Engineering**](https://www.usenix.org/system/files/sec22fall_tatar.pdf)
   * [**Double Trouble: Combined Heterogeneous Attacks on Non-Inclusive Cache Hierarchies**](https://www.usenix.org/system/files/sec22fall_purnal.pdf)
     * [codes](https://github.com/KULeuven-COSIC/Double-Trouble)
   * [**SecSMT: Securing SMT Processors against Contention-Based Covert Channels**](https://www.usenix.org/system/files/sec22summer_taram.pdf)
   * [**AMD Prefetch Attacks through Power and Time**](https://www.usenix.org/system/files/sec22summer_lipp.pdf)
   * [**Rapid Prototyping for Microarchitectural Attacks**](https://www.usenix.org/system/files/sec22summer_easdon.pdf)
+  * [**Targeted Deanonymization via the Cache Side Channel: Attacks and Defenses**](https://leakuidatorplusteam.github.io/preprint.pdf)
+  * [**HyperDegrade: From GHz to MHz Effective CPU Frequencies**](https://www.usenix.org/system/files/sec22summer_aldaya.pdf)
+  * [**Don't Mesh Around: Side-Channel Attacks and Mitigations on Mesh Interconnects**](https://people.csail.mit.edu/mengjia/data/Mesh_Attack_USENIX_22.pdf)
+  * [**Composable Cachelets: Protecting Enclaves from Cache Side-Channel Attacks**](http://www.cs.binghamton.edu/~dima/Sec22_CC.pdf)
+  * [**RETBLEED: Arbitrary Speculative Code Execution with Return Instructions**](https://comsec.ethz.ch/wp-content/files/retbleed_sec22.pdf)
+  * [**Can one hear the shape of a neural network?: Snooping the GPU via Magnetic Side Channel**](https://www.usenix.org/system/files/sec22summer_maia.pdf)
+
 
 * NDSS 2022
   
@@ -155,15 +178,39 @@
   
   * [**Trident: A Hybrid Correlation-Collision GPU Cache Timing Attack for AES Key Recovery**](https://ieeexplore.ieee.org/document/9407157)
   
-  * 
 
 * CCS 2021
   
   * [**Prime+Scope: Overcoming the Observer Effect for High-Precision Cache Contention Attacks**](https://www.esat.kuleuven.be/cosic/publications/article-3405.pdf)
   * [**Exorcising Spectres with Secure Compilers**](https://publications.cispa.saarland/3501/1/fp034-patrignaniA.pdf)
-  * [**CROSSLINE: Breaking ``Security-by-Crash'' based Memory Isolation in AMD SEV**](https://arxiv.org/pdf/2008.00146.pdf)
-  * [**SmashEx: Smashing SGX Enclaves Using Exceptions**](https://n.ethz.ch/~sshivaji/publications/smashex_ccs21.pdf)
+
+* SEC 2021
+
+  * [**Lord of the Ring(s): Side Channel Attacks on the CPU On-Chip Ring Interconnect Are Practical**](https://arxiv.org/pdf/2103.03443.pdf)
+  * [**Cross-VM and Cross-Processor Covert Channels Exploiting Processor Idle Power Management**](https://www.usenix.org/system/files/sec21-chen-paizhuo.pdf)
+  * [**Database Reconstruction from Noisy Volumes: A Cache Side-Channel Attack on SQLite**](https://www.usenix.org/system/files/sec21-shahverdi.pdf)
+  * [**MIRAGE: Mitigating Conflict-Based Cache Attacks with a Practical Fully-Associative Design**](https://www.usenix.org/system/files/sec21fall-saileshwar.pdf)
+  * [**DOLMA: Securing Speculation with the Principle of Transient Non-Observability**](https://www.usenix.org/system/files/sec21summer_loughlin.pdf)
+  * [**Osiris: Automated Discovery of Microarchitectural Side Channels**](https://publications.cispa.saarland/3431/2/osiris.pdf)
+  * [**Swivel: Hardening WebAssembly against Spectre**](https://cseweb.ucsd.edu/~dstefan/pubs/narayan:2021:swivel.pdf)
+  * [**Rage Against the Machine Clear: A Systematic Analysis of Machine Clears and Their Implications for Transient Execution Attacks**](https://www.usenix.org/system/files/sec21-ragab.pdf)
+
 
 * S&P 2021
   
+  * [**Invisible Probe: Timing Attacks with PCIe Congestion Side-channel**](https://cpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/5/764/files/2021/06/oakland21b.pdf)
+  * [**CacheOut: Leaking Data on Intel CPUs via Cache Evictions**](https://cacheoutattack.com/files/CacheOut.pdf)
+  * [**PLATYPUS: Software-based Power Side-Channel Attacks on x86**](https://platypusattack.com/platypus.pdf)
   * [**Randomized Last-Level Caches Are Still Vulnerable to Cache Side-Channel Attacks! But We Can Fix It**](https://arxiv.org/pdf/2008.01957.pdf)
+  * [**Systematic Analysis of Randomization-Based Protected Cache Architectures**](https://gruss.cc/files/randomized_caches.pdf)
+  * [**CrossTalk: Speculative Data Leaks Across Cores Are Real**](https://download.vusec.net/papers/crosstalk_sp21.pdf)
+  * [**Hardware-Software Contracts for Secure Speculation**](https://spectector.github.io/papers/hwsw-contracts.pdf)
+  * [**High-Assurance Cryptography in the Spectre Era**](https://cryptojedi.org/papers/sctpreserv-20210115.pdf)
+
+
+* NDSS 2021
+
+  * [**PhantomCache: Obfuscating Cache Conflicts with Localized Randomization**](https://list.zju.edu.cn/kaibu/phantomcache.pdf)
+  * [**SpecTaint: Speculative Taint Analysis for Discovering Spectre Gadgets**](https://www.cs.ucr.edu/~heng/pubs/SpecTaint.pdf)
+  * [**Hunting the Haunter — Efficient Relational Symbolic Execution for Spectre with Haunted RelSE**](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_4B-4_24286_paper.pdf)
+
