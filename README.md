@@ -1,4 +1,8 @@
-# 
+# 2023
+
+* S&P 2023
+
+  * SQUIP: Exploiting the Scheduler Queue Contention Side Channel
 
 # 2022
 
