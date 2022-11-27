@@ -33,3 +33,9 @@
 ## MICRO 2021
 
 * [Prefetch] [Morrigan: A Composite Instruction TLB Prefetcher](https://gvavou5.github.io/Documents/Vavouliotis_MICRO21.pdf)
+* [Prefetch] [Pythia: A Customizable Hardware Prefetching Framework Using Online Reinforcement Learning](https://arxiv.org/pdf/2109.12021.pdf)
+* [ITSLF: Inter-Thread Store-to-Load Forwarding in Simultaneous Multithreading](https://webs.um.es/aros/papers/pdfs/jfeliu-micro21.pdf)
+* [Fat Loads: Exploiting Locality Amongst Contemporaneous Load Operations to Optimize Cache Accesses](https://dl.acm.org/doi/fullHtml/10.1145/3466752.3480104)
+* [Criticality Driven Fetch](https://dl.acm.org/doi/pdf/10.1145/3466752.3480115)
+* [Profiling] [TIP: Time-Proportional Instruction Profiling](https://folk.idi.ntnu.no/jahre/papers/tip-micro21-postprint.pdf)
+* [Profiling] [Twig: Profile-Guided BTB Prefetching for Data Center Applications](https://web.eecs.umich.edu/~takh/papers/khan-twig-micro-2021.pdf)
