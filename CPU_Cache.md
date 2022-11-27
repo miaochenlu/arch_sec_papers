@@ -39,3 +39,16 @@
 * [Criticality Driven Fetch](https://dl.acm.org/doi/pdf/10.1145/3466752.3480115)
 * [Profiling] [TIP: Time-Proportional Instruction Profiling](https://folk.idi.ntnu.no/jahre/papers/tip-micro21-postprint.pdf)
 * [Profiling] [Twig: Profile-Guided BTB Prefetching for Data Center Applications](https://web.eecs.umich.edu/~takh/papers/khan-twig-micro-2021.pdf)
+
+## ASPLOS 2021
+
+* [Compression] [BCD Deduplication: Effective Memory Compression Using Partial Cache-Line Deduplication](https://dl.acm.org/doi/10.1145/3445814.3446722)
+* [Prefetch] [A Hierarchical Neural Model of Data Prefetching](https://www.cs.utexas.edu/~lin/papers/asplos21.pdf)
+
+## HPCA 2021
+
+* [Replacement] [Designing a Cost-Effective Cache ReplacementPolicy using Machine Learning](https://ieeexplore.ieee.org/document/9407137)
+* [Replacement] [P-OPT: Practical Optimal Cache Replacement for Graph Analytics](https://brandonlucia.com/pubs/POPT_HPCA21_CameraReady.pdf)
+* [Prefetch] [Prodigy: Improving the Memory Latency of Data-Indirect Irregular Workloads Using Hardware-Software Co-Design](http://tnm.engin.umich.edu/wp-content/uploads/sites/353/2021/01/2021.02.Prodigy_HPCA2021_Camera_Ready.pdf)
+* [Stream Floating: Enabling Proactive and Decentralized Cache Optimizations](https://polyarch.cs.ucla.edu/papers/hpca2021-stream-floating.pdf)
+* [Dead Page and Dead Block Predictors: Cleaning TLBs and Caches Together](https://www.csa.iisc.ac.in/~arkapravab/papers/hpca21_DOA.pdf)
