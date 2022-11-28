@@ -52,3 +52,25 @@
 * [Prefetch] [Prodigy: Improving the Memory Latency of Data-Indirect Irregular Workloads Using Hardware-Software Co-Design](http://tnm.engin.umich.edu/wp-content/uploads/sites/353/2021/01/2021.02.Prodigy_HPCA2021_Camera_Ready.pdf)
 * [Stream Floating: Enabling Proactive and Decentralized Cache Optimizations](https://polyarch.cs.ucla.edu/papers/hpca2021-stream-floating.pdf)
 * [Dead Page and Dead Block Predictors: Cleaning TLBs and Caches Together](https://www.csa.iisc.ac.in/~arkapravab/papers/hpca21_DOA.pdf)
+
+# 2020
+
+## ISCA 2020
+
+* [Prefetch] [Divide and Conquer Frontend Bottleneck](https://cs.ipm.ac.ir/~plotfi/papers/sn4l_isca20.pdf)
+* [Prefetch] [Bouquet of Instruction Pointers: Instruction Pointer Classifier-Based Spatial Hardware Prefetching](https://www.cse.iitk.ac.in/users/biswap/IPCP_ISCA20.pdf)
+
+## MICRO 2020
+
+* [Prefetch] [I-SPY: Context-Driven Conditional Instruction Prefetching with Coalescing](https://web.eecs.umich.edu/~barisk/public/ispy.pdf)
+* [Prefetch] [RnR: A Software-Assisted Record-and-Replay Hardware Prefetcher](https://www.microarch.org/micro53/papers/738300a609.pdf)
+* [Boosting Store Buffer Efficiency with Store-Prefetch Bursts](https://www.microarch.org/micro53/papers/738300a568.pdf)
+* [Improving the Utilization of Micro-Operation Caches in x86 Processors](https://www.microarch.org/micro53/papers/738300a160.pdf)
+
+## ASPLOS 2020
+
+* [Prefetch] [Classifying Memory Access Patterns for Prefetching](https://people.ucsc.edu/~hlitz/papers/asplos2020.pdf)
+* [Compression] [Thesaurus: Efficient Cache Compression via Dynamic Clustering](https://mieszko.ece.ubc.ca/thesaurus-asplos2020.pdf)
+
+## HPCA 2020
+
