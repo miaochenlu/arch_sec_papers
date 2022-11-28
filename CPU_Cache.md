@@ -74,3 +74,53 @@
 
 ## HPCA 2020
 
+# 2019
+
+## ISCA 2019
+
+* [Prefetch] [Perceptron-Based Prefetch Filtering](https://people.engr.tamu.edu/djimenez/pdfs/ppf_isca2019.pdf)
+* [Prefetch] [Efficient Meta-Data Management for Irregular Data Prefetching](https://www.cs.utexas.edu/users/lin/papers/isca19.pdf)
+* [Duality Caches for Data Parallel Acceleration](https://web.tecnico.ulisboa.pt/~joaomiguelvieira/public/PTDC/EEI-HAC/5215/2020/DF19a.pdf)
+* [Filter Caching for Free: The Untapped Potential of the Store Buffer](http://uu.diva-portal.org/smash/get/diva2:1316126/FULLTEXT02.pdf)
+
+## MICRO 2019
+
+* [Replacement] [Applying Deep Learning to the Cache Replacement Problem](https://www.cs.utexas.edu/users/lin/papers/micro19c.pdf)
+* [Compression] [Touche: Towards Ideal and Efficient Cache Compression by Mitigating Tag Area Overheads](https://arxiv.org/pdf/1909.00553.pdf)
+* [Prefetch] [DSPatch: Dual Spatial Pattern Prefetcher](https://people.inf.ethz.ch/omutlu/pub/DSPatch_prefetcher_micro19.pdf)
+* [Prefetch] [Temporal Prefetching Without the Off-Chip Metadata](https://www.cs.utexas.edu/users/lin/papers/micro19m.pdf)
+* [Prefetch] [Prefetched Address Translation](https://homepages.inf.ed.ac.uk/bgrot/pubs/ASAP_MICRO19.pdf)
+
+## ASPLOS 2019
+
+* [Compression] [Compress Objects, Not Cache Lines: An Object-Based Compressed Memory Hierarch](https://people.csail.mit.edu/sanchez/papers/2019.zippads.asplos.pdf)
+
+## HPCA 2019
+
+* [Prefetch] [Bingo Spatial Data Prefetcher](https://cs.ipm.ac.ir/~plotfi/papers/bingo_hpca19.pdf)
+
+
+# 2018
+
+## ISCA 2018
+
+* [Prefetch] [Division of Labor: A More Effective Approach to Prefetching](http://www2.ece.rochester.edu/~mihuang/PAPERS/isca18.pdf)
+* [Prefetch] [Criticality Aware Tiered Cache Hierarchy: A fundamental relook at multi-level cache hierarchies](https://www.cse.iitk.ac.in/users/sidrai/papers/rai_isca18.pdf)
+* [Prefetch] [Rethinking Belady's Algorithm to Accommodate Prefetching](https://www.cs.utexas.edu/~lin/papers/isca18.pdf)
+* [Replacement] [Exploring Predictive Replacement Policies for Instruction Cache and Branch Target Buffer](https://par.nsf.gov/servlets/purl/10079352)
+* [SEESAW: Using Superpages to Improve VIPT Caches](https://www.cs.yale.edu/homes/abhishek/mparasar-isca18.pdf)
+
+## MICRO 2018
+
+## ASPLOS 2018
+
+* [Prefetch] [An Event-Triggered Programmable Prefetcher for Irregular Workloads](https://www.cl.cam.ac.uk/~sa614/papers/programmableprefetcher.pdf)
+* [Prefetch] [Minnow: Lightweight Offload Engines for Worklist Management and Worklist-Directed Prefetching](https://dl.acm.org/doi/pdf/10.1145/3296957.3173197)
+
+## HPCA 2018
+
+* [Prefetch] [Domino Temporal Data Prefetcher](https://www.computer.org/csdl/proceedings-article/hpca/2018/365901a131/12OmNzXFoA6)
+* [KPart: A Hybrid Cache Partitioning-Sharing Technique for Commodity Multicores](https://people.csail.mit.edu/sanchez/papers/2018.kpart.hpca.pdf)
+* [SIPT: Speculatively Indexed, Physically Tagged Caches](https://lph.ece.utexas.edu/merez/uploads/MattanErez/sipt_hpca18.pdf)
+* [Don't Correct the Tags in a Cache, Just Check Their Hamming Distance from the Lookup Tag](https://www.semanticscholar.org/paper/Don%E2%80%99t-Correct-the-Tags-in-a-Cache%2C-Just-Check-Their-Gendler-Bramnik/7989ef776a642c7b8e68c857dc839e24d3416c87)
+
