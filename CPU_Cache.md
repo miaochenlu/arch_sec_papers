@@ -15,8 +15,6 @@
 * [Prefetch] [Page Size Aware Cache Prefetching](https://gvavou5.github.io/Documents/Vavouliotis_MICRO22.pdf)
 * [Prefetch] [Berti: An Accurate Local-Delta Data Prefetcher](https://www.cse.iitb.ac.in/~biswa/MICRO22.pdf) 
 * [Prefetch] [Merging Similar Patterns for Hardware Prefetching](https://ieeexplore.ieee.org/document/9923831/)
-* [Compression] [Translation-Optimized Memory Compression for Capacity](https://ieeexplore.ieee.org/document/9923870)
-* [Profiling] [Whisper: Profile-Guided Branch Misprediction Elimination for Data Center Applications](https://web.eecs.umich.edu/~barisk/public/whisper.pdf)
 
 ## ASPLOS 2022
 
