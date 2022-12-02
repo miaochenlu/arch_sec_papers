@@ -23,7 +23,7 @@
 ## HPCA 2022
 
 * [Reducing Load Latency with Cache Level Prediction](https://arxiv.org/pdf/2103.14808.pdf)
-* [Replace] [TCOR: A Tile Cache with Optimal Replacement](https://upcommons.upc.edu/bitstream/handle/2117/365470/TCOR__HPCA_2022___Camera_Ready_.pdf;jsessionid=34939B08839ADE0ED74406984F0A5D20?sequence=1)
+* [Replacement] [TCOR: A Tile Cache with Optimal Replacement](https://upcommons.upc.edu/bitstream/handle/2117/365470/TCOR__HPCA_2022___Camera_Ready_.pdf;jsessionid=34939B08839ADE0ED74406984F0A5D20?sequence=1)
 
 # 2021
 
@@ -31,7 +31,7 @@
 * [Zero Inclusion Victim: Isolating Core Caches from Inclusive Last-Level Cache Evictions](https://www.cse.iitk.ac.in/users/mainakc/pub/isca2021.pdf)
 * [Prefetch] [Exploiting Page Table Locality for Agile TLB Prefetching](https://gvavou5.github.io/Documents/Vavouliotis_ISCA21.pdf)
 * [Prefetch] [A Cost-Effective Entangling Prefetcher for Instructions](https://webs.um.es/aros/papers/pdfs/aros-isca21.pdf)
-* [Profiling, Replace] [Ripple: Profile-Guided Instruction Cache Replacement for Data Center Applications](https://web.eecs.umich.edu/~barisk/public/ripple.pdf)
+* [Profiling, Replacement] [Ripple: Profile-Guided Instruction Cache Replacement for Data Center Applications](https://web.eecs.umich.edu/~barisk/public/ripple.pdf)
 
 ## MICRO 2021
 
@@ -41,7 +41,6 @@
 * [Fat Loads: Exploiting Locality Amongst Contemporaneous Load Operations to Optimize Cache Accesses](https://dl.acm.org/doi/fullHtml/10.1145/3466752.3480104)
 * [Criticality Driven Fetch](https://dl.acm.org/doi/pdf/10.1145/3466752.3480115)
 * [Profiling] [TIP: Time-Proportional Instruction Profiling](https://folk.idi.ntnu.no/jahre/papers/tip-micro21-postprint.pdf)
-* [Profiling] [Twig: Profile-Guided BTB Prefetching for Data Center Applications](https://web.eecs.umich.edu/~takh/papers/khan-twig-micro-2021.pdf)
 
 ## ASPLOS 2021
 
