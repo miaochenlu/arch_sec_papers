@@ -1,5 +1,26 @@
 # 2023
 
+* ISCA 2023
+
+   * ISA-Grid: Architecture of Fine-grained Privilege Control for Instructions and Registers
+ 
+   * Metior: A Comprehensive Model to Evaluate Obfuscating Side-Channel Defense Schemes
+ 
+   * Doppelganger Loads: A Safe, Complexity-Effective Optimization for Secure Speculation Schemes
+ 
+   * Pensieve: Microarchitectural Modeling for Security Evaluation
+ 
+   * All your PC are belong to us: Exploiting Non-control-transfer Instruction BTB Updates for Dynamic PC Extraction
+
+* ASPLOS 2023
+
+  * [**AfterImage: Leaking Control Flow and Tracking Load Operations via the Hardware Prefetcher**](https://arxiv.org/pdf/2109.00474.pdf)
+ 
+  * Hacky Racers: Exploiting Instruction-Level Parallelism to Generate Stealthy Fine-Grained Timers
+ 
+  * Untangle: A Principled Framework to Design Low-Leakage, High-Performance Dynamic Partitioning Schemes
+ 
+
 * S&P 2023
 
   * SQUIP: Exploiting the Scheduler Queue Contention Side Channel
