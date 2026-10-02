@@ -29,6 +29,8 @@
 
 * MICRO 2022
 
+  * [**EVAX: Towards a Practical, Pro-active & Adaptive Architecture for High Performance & Security**](https://doi.org/10.1109/MICRO56248.2022.00085)
+
   * CRONUS: Fault-Isolated, Secure and High-Performance Heterogeneous Computing for Trusted Execution Environments
 
   * Revisiting Residue Codes for Modern Memories
@@ -312,3 +314,10 @@
   * [**SpecTaint: Speculative Taint Analysis for Discovering Spectre Gadgets**](https://www.cs.ucr.edu/~heng/pubs/SpecTaint.pdf)
 
   * [**Hunting the Haunter — Efficient Relational Symbolic Execution for Spectre with Haunted RelSE**](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_4B-4_24286_paper.pdf)
+
+
+# 2020
+
+* MICRO 2020
+
+  * [**PerSpectron: Detecting Invariant Footprints of Microarchitectural Attacks with Perceptron**](https://ieeexplore.ieee.org/document/9251956/)
